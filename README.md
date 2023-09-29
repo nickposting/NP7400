@@ -1,5 +1,6 @@
 # NP7400
-<img src="https://github.com/nickposting/NP7400/blob/main/assets/board_top.png" align="left" width="300">
+<img src="https://github.com/nickposting/NP7400/blob/main/assets/board_top.png" align="left" width="400">  
+<br>
 <br>
 
 ## Docs
