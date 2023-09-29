@@ -1,7 +1,4 @@
-# NP7400
-<img src="https://github.com/nickposting/NP7400/blob/main/assets/board_top.png" align="left" width="400">  
-<br>
-<br>
+# NP7400  
 
 ## Docs
 [820-1152-A.pdf](/docs/820-1152-A.pdf) contains a poor schematic of the
@@ -20,3 +17,6 @@ The newer schematic has not been thouroughly proofread. The older layout has not
 been tested extensively and should not be used; there is considerable room for
 improvement. Most planned changes are regarding optimization of routing, and ease
 of assembly.
+
+
+<img src="https://github.com/nickposting/NP7400/blob/main/assets/board_top.png" align="left" width="400">
