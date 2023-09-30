@@ -11,7 +11,8 @@ card (8 layers) from a 667MHz Digital Audio G4, and then using the card from
 a 400MHz AGP Graphics G4, intact, albeit with the processor desoldered,
 to verify that all the connections were correct.
 * None of the cards involved in this process were dual-processor cards, so any
-assignments unique to dual-processor systems have not been recorded.
+assignments unique to dual-processor systems, if any exist, have not been 
+recorded.
 * As written, the pin assignments are representative of how an MPC7450-series
 MPU would be interfaced to the Power Mac motherboard -- for instance, only address
 bits A4-A35 are present on the connector. Unlike earlier G4 processors, the 7450
