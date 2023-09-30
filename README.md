@@ -35,7 +35,7 @@ seated.
 the MPU.
 * D63 is pulled to ground by a 1kΩ resistor on every board for some reason.
 * The length of the SYSCLK track in particular is critical (tangentially, it appears
-that on cards built for Power Macs witha 167MHz FSB, most track lengths become
+that on cards built for Power Macs with a 167MHz FSB, most track lengths become
 tightly controlled).
 
 ## VRM
